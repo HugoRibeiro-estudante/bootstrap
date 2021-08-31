@@ -1,0 +1,49 @@
+html, body{
+    
+    padding: 0;
+    margin: 0 auto;
+    overflow-x: hidden;
+    
+}
+
+
+.container{
+
+    width: 100%;
+    height: 100%;
+
+}
+.bg-header{
+
+    background-color: rgb(240, 162, 162);
+}
+.bg-nav{
+    background-color: rgb(243, 111, 184);
+}
+.bg-article{
+    background-color: rgb(131, 208, 140);
+}
+.bg-aside{
+    background-color: rgb(161, 160, 238);
+}
+.bg-section{
+    background-color: rgb(112, 187, 244);
+}
+.bg-footer{
+    background-color: rgb(204, 205, 129);
+}
+.asideclass{
+    height: 500px;
+}
+.link-header{
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: black;
+    margin-left: 5rem;
+}
+
+.just{
+    text-align: justify;
+}
+
